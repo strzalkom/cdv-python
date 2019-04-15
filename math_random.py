@@ -19,3 +19,5 @@ print()
 
 losujZlisty = random.choice([1, 2, 3, 4])
 print ("Wylosowana liczba z listy:", losujZlisty)
+
+
