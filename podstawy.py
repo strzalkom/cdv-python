@@ -21,7 +21,7 @@ print()
 nazwisko = input("Podaj nazwisko: ")
 print("Twoje nazwisko podane z klwaiatury: ", nazwisko)
 print()
-print("Twoje pełne imię i nazwisko: ", imie,nazwisko)
+print("Twoje pełne imię i nazwisko: ", imie, nazwisko)
 
 '''
 Użytkownik podaje z klawiatury swój wiek
